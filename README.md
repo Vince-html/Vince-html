@@ -11,9 +11,9 @@ Minha primeira experiencia com programação foi em 2007-08, onde na época, jog
 Mas não levei a fundo. Resolvi voltar para programação esse ano(2021), por causa de amigos e necessidade de me encontrar profissionalmente, e até o momento estou muito feliz com essa escolha. 
 
 Cursos --
-JavaScript ES6 - Origamid <a href="https://github.com/Vince-html/Slide-Curso-Origamid-JavaScript>Repositório">Repositório</a><br>
-6ª Semana NLW - Next Level Week - Rocktseat - Trilha React <a href="https://github.com/Vince-html/ReactJS-RocketSeat-NLW">Repositório</a><br>
-Curso React Completo - Origamid <a href="https://github.com/Vince-html/Modulo-Final-React-Origamid">Repositório</a>
+JavaScript ES6 - Origamid - <a href="https://github.com/Vince-html/Slide-Curso-Origamid-JavaScript>Repositório">Repositório</a><br>
+6ª Semana NLW - Next Level Week - Rocktseat - Trilha React - <a href="https://github.com/Vince-html/ReactJS-RocketSeat-NLW">Repositório</a><br>
+Curso React Completo - Origamid - <a href="https://github.com/Vince-html/Modulo-Final-React-Origamid">Repositório</a>
 
 
 
