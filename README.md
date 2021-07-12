@@ -13,7 +13,8 @@ Mas não levei a fundo. Resolvi voltar para programação esse ano(2021), por ca
 Cursos --
 JavaScript ES6 - Origamid - <a href="https://github.com/Vince-html/Slide-Curso-Origamid-JavaScript>Repositório">Repositório</a><br>
 6ª Semana NLW - Next Level Week - Rocktseat - Trilha React - <a href="https://github.com/Vince-html/ReactJS-RocketSeat-NLW">Repositório</a><br>
-Curso React Completo - Origamid - <a href="https://github.com/Vince-html/Modulo-Final-React-Origamid">Repositório</a>
+Curso React Completo - Origamid - <a href="https://github.com/Vince-html/Modulo-Final-React-Origamid">Repositório</a><br>
+Curso WordPress REST API - Origamid (Api desenvolvida para o Site Velho Vestido em andamento)
 
 
 
