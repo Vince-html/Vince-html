@@ -2,6 +2,14 @@
 
 Conhecido também por Vince , tenho 32 anos de idade, casado e um filho de 3 anos, gosto de games, de surf e da familia. 
 
+ <div>
+  <a href="https://github.com/Vince-html">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vince-html&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vince-html&layout=compact&langs_count=7&theme=cobalt"/>
+  </a>
+ </div>
+  
+
 Atualmente tenho estudado <strong>React </strong>, javascript, typescript e sass.  
 
 Um pouco da minha historia, sou natural de Curitiba-PR , mas hoje resido em Imbituba-SC, perto do mar aonde me sinto bem. 
