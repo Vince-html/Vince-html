@@ -22,9 +22,9 @@ Cursos --
 JavaScript ES6 - Origamid - <a href="https://github.com/Vince-html/Slide-Curso-Origamid-JavaScript>Repositório">Repositório</a><br>
 6ª Semana NLW - Next Level Week - Rocktseat - Trilha React - <a href="https://github.com/Vince-html/ReactJS-RocketSeat-NLW">Repositório</a><br>
 Curso React Completo - Origamid - <a href="https://github.com/Vince-html/Modulo-Final-React-Origamid">Repositório</a><br>
-Curso WordPress REST API - Origamid (Api desenvolvida para o Site Velho Vestido em andamento)
-Curso Next/Graphql/GraphCMS plataforma udemy Prof: Willian justen
-Curso React/Redux Origamid
+Curso WordPress REST API - Origamid (Api desenvolvida para o Site Velho Vestido em andamento)<br>
+Curso Next/Graphql/GraphCMS plataforma udemy Prof: Willian justen<br>
+Curso React/Redux Origamid<br>
 
 
 
