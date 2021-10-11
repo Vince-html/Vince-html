@@ -41,7 +41,13 @@ Work in progress... <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"><br>
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 Um Abraço!
 
@@ -52,7 +58,15 @@ Um Abraço!
 Feito com ❤️ por Vicente Augusto 👋🏽 Entre em contato!
 
 
-
+9100000000000000111100002000000000111111111100040011111111100000000000111111111000011111100201111000000000000001
+1100001111110000111100000000000000111111111000110001111111100001111000011111111000000110000001111000000000000001
+1100001111110000111100000111111111111111110001111000111111100001111100001111111000011001100001111000001111111151
+1100001111100001111100000000000000111111100011111100011111100001111110000111111000011001100001111000001111111111
+1100000900000001111100000000000000111111000111111110001111100001111111000011111000011111100001111000000000000001
+1100000000000011111100000111111111111110000000000000000111100001111111000011111000011111100001111000000000000001
+1100001111110001111100000111111111111100000000000000000011100001111110000111111000011111105001111000001111111111
+1100001111111000111100000000000000111000001111111111100001100001111100001111111000011111100000111000000000000001
+1100001111111100011100006000000000110000011111111111110000100000000200011111111000011111100000111000000000030001
 
 
 
