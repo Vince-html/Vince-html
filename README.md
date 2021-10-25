@@ -4,7 +4,7 @@ Conhecido também por Vince , tenho 32 anos de idade, casado e um filho de 3 ano
 
  <div>
   <a href="https://github.com/Vince-html">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vince-html&show_icons=true&theme=cobalt/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vince-html&show_icons=true&theme=cobalt"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vince-html&layout=compact&langs_count=7&theme=cobalt"/>
   </a>
  </div>
