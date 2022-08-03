@@ -10,9 +10,9 @@ Conhecido também por Vince , tenho 33 anos de idade, casado e um filho de 4 ano
  </div>
   
 
-Atualmente focado em <strong>React </strong>, javascript, typescript e styled-components.  
-Mas tenho conhecimento também em  Sass, Material-UI, Bootstrap, Chackra Ui, NextJs.
-Um conhecimento um pouco mais vago em NodeJs, Python(Apis Rest) e Angular2+.
+Atualmente focado em <strong>React </strong>, javascript, typescript e styled-components.  <br>
+Mas tenho conhecimento também em  Sass, Material-UI, Bootstrap, Chackra Ui, NextJs.<br>
+Um conhecimento um pouco mais vago em NodeJs, Python(Apis Rest) e Angular2+.<br>
 
 Natural de Curitiba-PR, porém hoje resido em Imbituba-SC, perto do mar aonde me sinto bem. 
 Sou Tranquilo, focado em atiginr meus objetivos. 
