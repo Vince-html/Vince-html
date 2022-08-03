@@ -1,6 +1,6 @@
 ### Olá eu sou o Vicente 👋
 
-Conhecido também por Vince , tenho 32 anos de idade, casado e um filho de 3 anos, gosto de games, de surf e da familia. 
+Conhecido também por Vince , tenho 33 anos de idade, casado e um filho de 4 anos, gosto de games, de surf e da familia. 
 
  <div>
   <a href="https://github.com/Vince-html">
@@ -10,13 +10,17 @@ Conhecido também por Vince , tenho 32 anos de idade, casado e um filho de 3 ano
  </div>
   
 
-Atualmente tenho estudado <strong>React </strong>, javascript, typescript e sass.  
+Atualmente focado em <strong>React </strong>, javascript, typescript e styled-components.  
+Mas tenho conhecimento também em  Sass, Material-UI, Bootstrap, Chackra Ui, NextJs.
+Um conhecimento um pouco mais vago em NodeJs, Python(Apis Rest) e Angular2+.
 
-Um pouco da minha historia, sou natural de Curitiba-PR , mas hoje resido em Imbituba-SC, perto do mar aonde me sinto bem. 
+Natural de Curitiba-PR, porém hoje resido em Imbituba-SC, perto do mar aonde me sinto bem. 
 Sou Tranquilo, focado em atiginr meus objetivos. 
 
 Minha primeira experiencia com programação foi em 2007-08, onde na época, jogava tibia, e acabei fazendo alguns sites para o jogo. 
 Mas não levei a fundo. Resolvi voltar para programação esse ano(2021), por causa de amigos e necessidade de me encontrar profissionalmente, e até o momento estou muito feliz com essa escolha. 
+
+Atualmente trabalhando como Application Developer na IBM, onde tenho um foco total em React, styled components, Material-ui e testes unitários com Jest.
 
 Cursos --
 JavaScript ES6 - Origamid - <a href="https://github.com/Vince-html/Slide-Curso-Origamid-JavaScript>Repositório">Repositório</a><br>
