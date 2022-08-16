@@ -11,16 +11,16 @@ Conhecido também por Vince , tenho 33 anos de idade, casado e um filho de 4 ano
   <br>
   <br>
 
-Atualmente focado em <strong>React </strong>, javascript, typescript e styled-components.  <br>
+Atualmente focado em <strong>React </strong>, Typescript e styled-components.  <br>
 Mas tenho conhecimento também em  Sass, Material-UI, Bootstrap, Chackra Ui, NextJs.<br>
 Um conhecimento um pouco mais vago em NodeJs, Python(Apis Rest) e Angular2+.<br>
 <br>
 <br>
-Natural de Curitiba-PR, porém hoje resido em Imbituba-SC, perto do mar aonde me sinto bem. 
+Natural de Curitiba-PR, porém hoje resido em Imbituba-SC.
 Sou Tranquilo, focado em atiginr meus objetivos. 
 
-Minha primeira experiencia com programação foi em 2007-08, onde na época, jogava tibia, e acabei fazendo alguns sites para o jogo. 
-Mas não levei a fundo. Resolvi voltar para programação esse ano(2021), por causa de amigos e necessidade de me encontrar profissionalmente, e até o momento estou muito feliz com essa escolha. 
+Minha primeira experiencia com programação foi ainda em 2007-08, onde na época, jogava tibia, e acabei fazendo alguns sites para o jogo(PHP, MySql) e alguns scprits em lua e xml. 
+Mas não levei a fundo na época eram outros tempos com pouco conteudo de graça disponivel e internet pouco acessivel para mim. Resolvi voltar para programação esse ano(2021), por causa de amigos e necessidade de me encontrar profissionalmente, e até o momento estou me sentindo realizado com a escolha, acredito que ainda tenho muito a crescer profissionalmente, porém sinto que por conta de varias outras experiencias profissionais que tive, isso tem se tornado muito mais facil. 
 
 Atualmente trabalhando como Application Developer na IBM, onde tenho um foco total em React, styled components, Material-ui e testes unitários com Jest.
 
@@ -33,10 +33,11 @@ Curso Next/Graphql/GraphCMS plataforma udemy Prof: Willian justen<br>
 Curso React/Redux Origamid<br>
 Curso ReactJS Rocketseat Ignite<br>
 Curso React Native Rocketseat Ignite<br>
+Curso Angular2+ Udemy Professor Dener Troquatte <br>
+Curso Python/FastApi Udemy GeekUniversity <br>
+Curso Python básico ao avançado Udemy GeekUniversity <br>
+Curso React TDD/Clean Architecture,SOLID e Patterns <br>
 
-
-
-Enfim um pouco de mim, para que as pessoas que chegam até aqui me conheçam um pouco.
 
 
 
