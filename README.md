@@ -1,6 +1,6 @@
 ### Olá eu sou o Vicente 👋
 
-Conhecido também por Vince , tenho 33 anos de idade, casado e um filho de 4 anos, gosto de games, de surf e da familia. 
+Conhecido também por Vince , tenho 34 anos de idade, casado e um filho de 5 anos, gosto de games, de surf e da familia. 
 
  <div>
   <a href="https://github.com/Vince-html">
@@ -23,7 +23,7 @@ Minha primeira experiencia com programação foi ainda em 2007-08, onde na époc
 Mas não levei a fundo na época eram outros tempos com pouco conteudo de graça disponivel e internet pouco acessivel para mim. Resolvi voltar para programação esse ano(2021), por causa de amigos e necessidade de me encontrar profissionalmente, e até o momento estou me sentindo realizado com a escolha, acredito que ainda tenho muito a crescer profissionalmente, porém sinto que por conta de varias outras experiencias profissionais que tive, isso tem se tornado muito mais facil. 
 
 Atualmente trabalhando como Application Developer na IBM, onde tenho um foco total em React, styled components, Material-ui e testes unitários com Jest.<br>
-Além de fazer algumas atuações no back-end, com python e ansible. Conhecimento em docker, prometheus, grafana e o ciclo de monitoração.
+Além de fazer algumas atuações no back-end, com python e ansible. Conhecimento em docker, Linux, devOps e infra.
 
 Cursos --
 JavaScript ES6 - Origamid - <a href="https://github.com/Vince-html/Slide-Curso-Origamid-JavaScript>Repositório">Repositório</a><br>
